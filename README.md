@@ -37,9 +37,9 @@ To run this project, you will need Jupyter Notebook or JupyterLab installed on y
 - Scikit-learn
 
 You can install all required packages using the following command:
-'''
+```
 pip install pandas numpy matplotlib seaborn scikit-learn jupyterlab
-'''
+```
 
 ## Usage
 1. Clone this repository to your local machine.
