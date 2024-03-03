@@ -1,7 +1,7 @@
 # Melbourne Housing Market Analysis
 
 ## Project Overview
-This project aims to analyze the Melbourne housing market using a dataset that includes information on property sales across various suburbs. The analysis covers data exploration, visualization, and modeling to understand factors influencing house prices and to predict them based on property attributes.
+This project aims to analyze the Melbourne housing market using a dataset that includes information on property sales across various suburbs. The analysis covers data exploration, visualization, and modeling to understand factors influencing house prices. Specifically, this project seeks to compare the performance of Decision Tree Regressor and Random Forest Regressor models using the Mean Absolute Error (MAE) metric, and also compares MAE results for different values of max leaf nodes to find the optimal model configuration for predicting house prices.
 
 ## Dataset
 The dataset, `melb_data.csv`, contains details on property sales in Melbourne, including features like suburb, number of rooms, type of property, price, and many others. It provides a comprehensive look at the housing market dynamics in Melbourne.
