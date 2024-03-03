@@ -1,4 +1,7 @@
-![MAE vs Max Leaf Nodes](plots/MAE_vs_MaxLeafNodes.png)
+<p align="center">
+  <img src="plots/MAE_vs_MaxLeafNodes.png" alt="MAE vs Max Leaf Nodes">
+</p>
+
 # Melbourne Housing Market Analysis
 
 ## Project Overview
