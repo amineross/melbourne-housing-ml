@@ -45,3 +45,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyterlab
 1. Clone this repository to your local machine.
 2. Open the `housing.ipynb` notebook in JupyterLab or Jupyter Notebook.
 3. Run each cell in the notebook to reproduce the analysis and results.
+
+## Acknowledgments
+- Special thanks to DanB (@dansbecker) on Kaggle for providing the dataset, which is a crucial part of this analysis. The dataset can be found [here](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot).
